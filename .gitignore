@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!.README.md
+
+!/client/src/**
+!/client/pom.xml
+
+!/server/src/**
+!/server/pom.xml
